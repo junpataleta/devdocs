@@ -41,7 +41,7 @@ The table below provides a history of the accessibility audits performed on the 
 
 #### Moodle App
 
-The Moodle App was accredited to meet WCAG 2.2 Level AA conformance on 7 April 2025. See [MOBILE-4595](https://moodle.atlassian.net/browse/MOBILE-4595) for more details.
+The Moodle App has been accredited to meet WCAG 2.2 Level AA conformance on 7 April 2025. See [MOBILE-4595](https://moodle.atlassian.net/browse/MOBILE-4595) for more details.
 
 #### Moodle Workplace
 
@@ -95,7 +95,7 @@ An overview of Moodle Workplace's conformance with the [WCAG 2.1](https://www.w3
 
 #### Moodle App
 
-An overview of Moodle App's conformance with the [WCAG 2.2](https://www.w3.org/TR/WCAG22/) guidelines can be found in our [accessibility conformance report](https://docs.moodle.org/en/Moodle_app_VPAT#WCAG_2.x_report).
+An overview of Moodle App's conformance with the [WCAG 2.2](https://www.w3.org/TR/WCAG22/) guidelines can be found in the [accessibility conformance report for Moodle App](https://docs.moodle.org/en/Moodle_app_VPAT#WCAG_2.x_report).
 
 <!-- cspell:ignore IAAP -->
 <!-- cspell:ignore credly -->
