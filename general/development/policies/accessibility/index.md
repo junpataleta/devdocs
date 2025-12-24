@@ -18,7 +18,7 @@ Moodle is designed to provide equal functionality and information to all people.
 
 ## Accessibility conformance
 
-As part of our ongoing commitment to accessibility and continuously improving conformance with the WCAG 2.1 Level AA success criteria, Moodle is working with an external team of accessibility specialists to review the accessibility of its products through regular accessibility audits.
+As part of our ongoing commitment to accessibility and continuously improving conformance with the WCAG 2.2 Level AA success criteria, Moodle is working with an external team of accessibility specialists to review the accessibility of its products through regular accessibility audits.
 
 ### Accessibility accreditations
 
